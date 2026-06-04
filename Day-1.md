@@ -17,7 +17,7 @@ I already knew basic computer usage, internet browsing, and had some familiarity
 - [x] I can navigate to the C and D drives within WSL
 - [x] I understand the difference between `>` (overwrite) and `>>` (append)
 - [x] I have a GitHub account and have created the `tds-bootcamp` repository
-- [ ] 
+      
 --- After Day-1 ---
 I learned these things as well, apart from the checklist:
 - Setting up WSL and Linux environment on Windows
